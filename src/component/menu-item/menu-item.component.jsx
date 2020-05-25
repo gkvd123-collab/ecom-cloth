@@ -17,7 +17,7 @@ return(
           {title}
         </h1>
         <span className="subtitle">
-           Shop
+           SHOP
         </span>
     </div>
 </div>
