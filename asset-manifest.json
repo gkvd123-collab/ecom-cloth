@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecom-cloth/static/css/main.5a497f19.chunk.css",
+    "main.js": "/ecom-cloth/static/js/main.354718fb.chunk.js",
+    "main.js.map": "/ecom-cloth/static/js/main.354718fb.chunk.js.map",
+    "runtime-main.js": "/ecom-cloth/static/js/runtime-main.e7eed197.js",
+    "runtime-main.js.map": "/ecom-cloth/static/js/runtime-main.e7eed197.js.map",
+    "static/js/2.9f91992c.chunk.js": "/ecom-cloth/static/js/2.9f91992c.chunk.js",
+    "static/js/2.9f91992c.chunk.js.map": "/ecom-cloth/static/js/2.9f91992c.chunk.js.map",
+    "index.html": "/ecom-cloth/index.html",
+    "precache-manifest.e81c9c526dcd0cb749fac3146ddccce9.js": "/ecom-cloth/precache-manifest.e81c9c526dcd0cb749fac3146ddccce9.js",
+    "service-worker.js": "/ecom-cloth/service-worker.js",
+    "static/css/main.5a497f19.chunk.css.map": "/ecom-cloth/static/css/main.5a497f19.chunk.css.map",
+    "static/js/2.9f91992c.chunk.js.LICENSE.txt": "/ecom-cloth/static/js/2.9f91992c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7eed197.js",
+    "static/js/2.9f91992c.chunk.js",
+    "static/css/main.5a497f19.chunk.css",
+    "static/js/main.354718fb.chunk.js"
+  ]
+}
